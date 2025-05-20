@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "MiFuente";
+  src: url("../fonts/AlejandraFont-Regular.ttf") format("truetype");
+}
+
+* {
+  font-family: "MiFuente", sans-serif !important;
+}
